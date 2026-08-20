@@ -1,0 +1,4 @@
+# dsh-opencodex-usage bundle patch: mounts host service and web client UI
+- insert:
+    - id: ui-dsh-opencodex-usage
+      name: dsh-opencodex-usage
